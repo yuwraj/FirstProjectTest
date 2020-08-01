@@ -17,7 +17,7 @@ public class Answer {
 	private String actualAnswer;
 	@Column(name = "postedBy")
 	private String postedBy;
-
+//This is dummy Comment from eclipse to store file in gitHub.com by Yuwi
 	public int getId() {
 		return id;
 	}
